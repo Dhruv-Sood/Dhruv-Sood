@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">18 | Open-source Advocate👨‍⚖️ | Your friendly neighborhood Geek | React | Javascript</h3>
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ookmyq5xdzmsaeqesqnx8lxtjhpriknnq6slowon&ep=v1_gifs_search&rid=giphy.gif&ct=g" height=400px>
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ookmyq5xdzmsaeqesqnx8lxtjhpriknnq6slowon&ep=v1_gifs_search&rid=giphy.gif&ct=g" height=200px width=200px>
 
 - 🔭 I’m currently working on [Spotify Clone](https://github.com/Dhruv-Sood/spotty-clone)
 
