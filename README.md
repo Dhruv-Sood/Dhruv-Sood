@@ -3,7 +3,7 @@
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ookmyq5xdzmsaeqesqnx8lxtjhpriknnq6slowon&ep=v1_gifs_search&rid=giphy.gif&ct=g" height=200px width=200px>
 
 
-- 👨‍💻 All of my projects are available at [linkfree.io/Dhruv-Sood](linkfree.io/Dhruv-Sood)
+- 👨‍💻 All of my projects are available at [dhruvsood.in](https://www.dhruvsood.in)
 
 - 📝 I regularly write articles on [https://dhruvsood.hashnode.dev](https://dhruvsood.hashnode.dev)
 
